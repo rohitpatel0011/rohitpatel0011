@@ -1,84 +1,122 @@
-# 💫 About Me
-- 🔭 I’m currently working on **Full-Stack Web Development Projects (MERN + Next.js)**
-- 👯 I’m looking to collaborate on **Open Source & Real-world Full-Stack Apps**
-- 🤝 I’m looking for help with **Backend Scaling & Cloud Deployments**
-- 🌱 I’m currently learning **Advanced TypeScript, Next.js 14 (App Router), and AWS**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express, Next.js**
-- ⚡ Fun fact: *I can debug faster than I can cook Maggi 🍜💻*
+<!-- ================= HERO ================= -->
+<h1 align="center">Hi, I'm Rohit Patel 👋</h1>
+<p align="center">
+  <b>Software Engineer (Full Stack)</b> • MERN • Next.js • Data Science Graduate (2025)
+</p>
+
+<p align="center">
+  <a href="mailto:rajgolu636@gmail.com"><img src="https://img.shields.io/badge/Email-rajgolu636@gmail.com-informational?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rohit-patel0011/"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Patel-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/rohitpatel0011"><img src="https://img.shields.io/badge/GitHub-rohitpatel0011-black?style=flat&logo=github"></a>
+</p>
 
 ---
 
-## 📇 DevCard
+<!-- ================= ABOUT + DEVCARD ================= -->
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 💫 About Me
+
+- Full Stack Developer with strong **Computer Science fundamentals**
+- Working on **production-level MERN & Next.js applications**
+- Comfortable with **backend APIs, databases, authentication, and deployment**
+- Exploring **AI, Generative AI, Agentic AI**, and cloud systems
+- Strong in **problem solving, debugging, and clean code**
+
+> *Fun fact:* I debug faster than I cook Maggi 🍜
+
+</td>
+
+<td width="42%" align="center" valign="top">
+
 <a href="https://app.daily.dev/superuser_">
-  <img src="https://api.daily.dev/devcards/v2/E1ShZ0Zi1.png?type=default&r=st2" width="356" alt="Rohit Patel's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/E1ShZ0Zi1.png?type=default&r=st2" width="320" alt="Rohit Patel Dev Card"/>
 </a>
 
----
-
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/511660898985705472)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/1.rohit_patel/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-patel-802b321b4/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohitpatel0011)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Rohit-Patel-1154)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14758156/rohit-patel)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Rohit_Patel0011)
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
-### 🚀 Languages & Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ================= TECH STACK ================= -->
+## 💻 Tech Stack
 
-### 🛠 Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🚀 Core Development
+<p>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-323330?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js">
+<img src="https://img.shields.io/badge/Express-404D59?style=flat&logo=express">
+</p>
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+### 🗄 Databases & Backend
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb">
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens">
+</p>
 
-### 📊 Data & Others
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### ☁️ Cloud & Tools
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git">
+</p>
 
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpatel0011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=rohitpatel0011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohitpatel0011&theme=dark&hide_border=false)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=rohitpatel0011&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🤖 AI & Data
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python">
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat">
+<img src="https://img.shields.io/badge/Agentic%20AI-4B0082?style=flat">
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat">
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohitpatel0011&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<!-- ================= STATS ================= -->
+## 📊 GitHub Activity
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rohitpatel0011&show_icons=true&theme=dark&hide_border=true" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpatel0011&theme=dark&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpatel0011&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ================= SOCIALS ================= -->
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohit-patel-802b321b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"></a>
+<a href="https://medium.com/@rohitpatel0011"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium"></a>
+<a href="https://stackoverflow.com/users/14758156/rohit-patel"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow"></a>
+<a href="https://codepen.io/Rohit_Patel0011"><img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen"></a>
+<a href="https://www.instagram.com/1.rohit_patel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram"></a>
+</p>
 
 ---
 
-### 😂 Random Developer Meme
-<img src="https://randommeme-five.vercel.app/" width="400px"/>
+<!-- ================= FOOTER ================= -->
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=rohitpatel0011&icon=5&color=6"/>
+</p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=rohitpatel0011&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i> 🚀
+</p>
