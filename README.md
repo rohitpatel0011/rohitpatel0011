@@ -20,7 +20,8 @@
 ## 💫 About Me
 
 - Full Stack Developer with strong **Computer Science fundamentals**
-- Working on **production-level MERN & Next.js applications**
+- Working on **Web & Mobile Engineering & Cross-Platform applications** 
+
 - Comfortable with **backend APIs, databases, authentication, and deployment**
 - Exploring **AI, Generative AI, Agentic AI**, and cloud systems
 - Strong in **problem solving, debugging, and clean code**
