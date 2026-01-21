@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 <h1 align="center">Hi, I'm Rohit Patel 👋</h1>
 <p align="center">
-  <b>Software Engineer (Full Stack)</b> • MERN • Next.js • Data Science Graduate (2025)
+  Data Science Graduate <b>Engineer (Full Stack) </b> (2025)
 </p>
 
 <p align="center">
