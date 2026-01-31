@@ -40,44 +40,33 @@
 <div align="center">
   <h2>💻 Tech Stack</h2>
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,aws,docker,git,linux,python&theme=dark" />
+</p>
 </div>
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitpatel0011&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpatel0011&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb" height="150" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpatel0011&layout=compact&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff" height="150" alt="top languages" />
-</div>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpatel0011&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rohit's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpatel0011&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpatel0011&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
-  <p><i>"Code. Learn. Build. Repeat."</i> 🚀</p>
-  <img src="https://visitcount.itsvg.in/api?id=rohitpatel0011&icon=0&color=6" />
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rohitpatel0011&icon=5&color=6" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i> 🚀
+</p>
