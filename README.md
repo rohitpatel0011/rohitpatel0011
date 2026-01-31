@@ -46,6 +46,14 @@
 </div>
 
 ---
+### 🚀 Open Source Project
+
+**React Starter – Enterprise Ready**  
+An enterprise-grade React starter with real-world architecture, CI, and open-source workflow.
+
+🔗 https://github.com/rohitpatel0011/react-starter-enterprise
+
+---
 
 ## 📊 GitHub Analytics
 
